@@ -1,44 +1,14 @@
-# This is a heading
+# Swords and Shields
 
-## This is a subheading
+### This is my version of the game Tic-Tac-Toe.  
 
-### Subsub and so on
+To start, fight over who wants to be player 1. Player 1 will then choose either sword or shield. The first turn will then be randomly selected.
 
-*italics*
+If either player lines up three swords or shields in a row (diagonally included) they win a point.
 
-**strong**
-
-***bolditalics***
-
-list
----
-
-- yew
-1. yew
-* yew
-
-## hyperlinks
-
-[Here is a link](http://w3c.org)
+Press the reset button when you are ready to play again.
 
 
-## images
+[Play the game here](https://cullsgit.github.io/project0/)
 
-![Kitten picture](http://placekitten.com/120/120)
-
-
-`back-ticks` makes it look like code.
-
-```
-const example = function () {
-  console.log('wowww');
-}
-```
-
-```javascript
-const example = function () {
-  console.log('wowww');
-}
-```
-
-> Block quotes
+Good luck have fun.
